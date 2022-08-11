@@ -1,6 +1,6 @@
 :root {
     --primary-color: #00cc99;
-    --secondary-color: #a1a1ff;
+    --secondary-color: #00ff00;
     --tertiary-color: #66e0ff;
     --white-color: #fff;
     --black-color: #000;
@@ -15,7 +15,7 @@
 
 /* Body Style */
 body {
-    color: var(--secondary-color);
+    color: var(--primary-color);
     font-family: 'Times New Roman', Times, serif;
 }
 
